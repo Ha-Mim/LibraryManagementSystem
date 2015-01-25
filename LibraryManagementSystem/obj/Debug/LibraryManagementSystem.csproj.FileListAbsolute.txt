@@ -1,0 +1,17 @@
+D:\asp.net\25.1.15\LibraryManagementSystem\LibraryManagementSystem\bin\LibraryManagementSystem.dll.config
+D:\asp.net\25.1.15\LibraryManagementSystem\LibraryManagementSystem\bin\LibraryManagementSystem.dll
+D:\asp.net\25.1.15\LibraryManagementSystem\LibraryManagementSystem\bin\LibraryManagementSystem.pdb
+D:\asp.net\25.1.15\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.dll
+D:\asp.net\25.1.15\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.pdb
+E:\xam\25.1.15\LibraryManagementSystem\LibraryManagementSystem\bin\LibraryManagementSystem.dll.config
+E:\xam\25.1.15\LibraryManagementSystem\LibraryManagementSystem\bin\LibraryManagementSystem.dll
+E:\xam\25.1.15\LibraryManagementSystem\LibraryManagementSystem\bin\LibraryManagementSystem.pdb
+E:\xam\25.1.15\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.csprojResolveAssemblyReference.cache
+E:\xam\25.1.15\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.dll
+E:\xam\25.1.15\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.pdb
+D:\asp.net\xam\25.1.15\LibraryManagementSystem\LibraryManagementSystem\bin\LibraryManagementSystem.dll.config
+D:\asp.net\xam\25.1.15\LibraryManagementSystem\LibraryManagementSystem\bin\LibraryManagementSystem.dll
+D:\asp.net\xam\25.1.15\LibraryManagementSystem\LibraryManagementSystem\bin\LibraryManagementSystem.pdb
+D:\asp.net\xam\25.1.15\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.dll
+D:\asp.net\xam\25.1.15\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.pdb
+D:\asp.net\xam\25.1.15\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.csprojResolveAssemblyReference.cache
